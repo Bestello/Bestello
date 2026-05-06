@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bestello
-- 👀 I’m interested in AI, UI, UX, ML, data science
+- 👀 I’m interested in AI, ML, data science
 - 🌱 I’m currently learning Dart, Python
 - 💞️ I’m looking to collaborate on Anyhing i can work on
 - 📫 How to reach me [Bestello TG](https://t.me/Bestello)
