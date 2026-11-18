@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bestello
-- 👀 I’m an EEE engineer who likes commuters and AI
+- 👀 I’m an EE Engineer who likes computers and AI
 - 🌱 I’m currently learning Dart, Python
 - 💞️ I’m looking to collaborate on Anyhing i can work on
 - 📫 How to reach me [Bestello TG](https://t.me/Bestello)
